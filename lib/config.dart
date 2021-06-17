@@ -1,0 +1,3 @@
+String baseURL = "http://13.126.121.25:8080/api/assignments?sort=lastSubmittedDate,asc&size=3&page=";
+String basePostUrl = "http://13.126.121.25:8080/api/assignmentswithfile?batches=1&teacherId=1109&publish=true";
+String authToken = "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI5ODE3Mjk0MzE0IiwiYXV0aCI6IlJPTEVfU0NIT09MX0FETUlOIiwiZXhwIjoxNjIzOTc4NjQ3fQ.PSw5z-QJpc8ut2XHl3e7sKk9nADr7NEPOUB5qmaI09Q-yW4mrVr-lZn9LDDajse41MTMpI1JTmlb1ZhBFwo8pw";
